@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Interns\\Reiz Tech\\Clock Arrows Lesser Angles\\Clock Arrows Lesser Angles\\Clock Arrows Lesser Angles.csproj": {}
+    "D:\\Work\\Interns\\Reiz Tech\\Reiz-Tech-Assignment\\ClockArrowsLesserAngle\\ClockArrowsLesserAngle\\ClockArrowsLesserAngle.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Interns\\Reiz Tech\\Clock Arrows Lesser Angles\\Clock Arrows Lesser Angles\\Clock Arrows Lesser Angles.csproj": {
+    "D:\\Work\\Interns\\Reiz Tech\\Reiz-Tech-Assignment\\ClockArrowsLesserAngle\\ClockArrowsLesserAngle\\ClockArrowsLesserAngle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Interns\\Reiz Tech\\Clock Arrows Lesser Angles\\Clock Arrows Lesser Angles\\Clock Arrows Lesser Angles.csproj",
-        "projectName": "Clock Arrows Lesser Angles",
-        "projectPath": "D:\\Work\\Interns\\Reiz Tech\\Clock Arrows Lesser Angles\\Clock Arrows Lesser Angles\\Clock Arrows Lesser Angles.csproj",
+        "projectUniqueName": "D:\\Work\\Interns\\Reiz Tech\\Reiz-Tech-Assignment\\ClockArrowsLesserAngle\\ClockArrowsLesserAngle\\ClockArrowsLesserAngle.csproj",
+        "projectName": "ClockArrowsLesserAngle",
+        "projectPath": "D:\\Work\\Interns\\Reiz Tech\\Reiz-Tech-Assignment\\ClockArrowsLesserAngle\\ClockArrowsLesserAngle\\ClockArrowsLesserAngle.csproj",
         "packagesPath": "C:\\Users\\hamza\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Interns\\Reiz Tech\\Clock Arrows Lesser Angles\\Clock Arrows Lesser Angles\\obj\\",
+        "outputPath": "D:\\Work\\Interns\\Reiz Tech\\Reiz-Tech-Assignment\\ClockArrowsLesserAngle\\ClockArrowsLesserAngle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hamza\\AppData\\Roaming\\NuGet\\NuGet.Config",
