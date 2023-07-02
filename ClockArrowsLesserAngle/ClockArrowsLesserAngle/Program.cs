@@ -31,7 +31,14 @@ namespace MyApp
 
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("Enter hours and minutes of the analogue clock: ");
+            Console.Write("Hours: ");
+            int hours = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Minutes: ");
+            int minutes = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("The lesser angle between the two arrows are: " +
+                               CalculateLesserAngle(hours, minutes));
         }
     }
 }
