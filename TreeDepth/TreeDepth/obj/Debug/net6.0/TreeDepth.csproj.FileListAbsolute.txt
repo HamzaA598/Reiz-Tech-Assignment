@@ -1,0 +1,15 @@
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\bin\Debug\net6.0\TreeDepth.exe
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\bin\Debug\net6.0\TreeDepth.deps.json
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\bin\Debug\net6.0\TreeDepth.runtimeconfig.json
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\bin\Debug\net6.0\TreeDepth.dll
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\bin\Debug\net6.0\TreeDepth.pdb
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\obj\Debug\net6.0\TreeDepth.csproj.AssemblyReference.cache
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\obj\Debug\net6.0\TreeDepth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\obj\Debug\net6.0\TreeDepth.AssemblyInfoInputs.cache
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\obj\Debug\net6.0\TreeDepth.AssemblyInfo.cs
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\obj\Debug\net6.0\TreeDepth.csproj.CoreCompileInputs.cache
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\obj\Debug\net6.0\TreeDepth.dll
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\obj\Debug\net6.0\refint\TreeDepth.dll
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\obj\Debug\net6.0\TreeDepth.pdb
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\obj\Debug\net6.0\TreeDepth.genruntimeconfig.cache
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\TreeDepth\TreeDepth\obj\Debug\net6.0\ref\TreeDepth.dll
