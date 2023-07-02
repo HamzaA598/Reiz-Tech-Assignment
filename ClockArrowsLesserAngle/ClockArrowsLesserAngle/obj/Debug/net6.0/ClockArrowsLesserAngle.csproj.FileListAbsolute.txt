@@ -1,0 +1,15 @@
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\bin\Debug\net6.0\ClockArrowsLesserAngle.exe
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\bin\Debug\net6.0\ClockArrowsLesserAngle.deps.json
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\bin\Debug\net6.0\ClockArrowsLesserAngle.runtimeconfig.json
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\bin\Debug\net6.0\ClockArrowsLesserAngle.dll
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\bin\Debug\net6.0\ClockArrowsLesserAngle.pdb
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\obj\Debug\net6.0\ClockArrowsLesserAngle.csproj.AssemblyReference.cache
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\obj\Debug\net6.0\ClockArrowsLesserAngle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\obj\Debug\net6.0\ClockArrowsLesserAngle.AssemblyInfoInputs.cache
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\obj\Debug\net6.0\ClockArrowsLesserAngle.AssemblyInfo.cs
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\obj\Debug\net6.0\ClockArrowsLesserAngle.csproj.CoreCompileInputs.cache
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\obj\Debug\net6.0\ClockArrowsLesserAngle.dll
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\obj\Debug\net6.0\refint\ClockArrowsLesserAngle.dll
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\obj\Debug\net6.0\ClockArrowsLesserAngle.pdb
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\obj\Debug\net6.0\ClockArrowsLesserAngle.genruntimeconfig.cache
+D:\Work\Interns\Reiz Tech\Reiz-Tech-Assignment\ClockArrowsLesserAngle\ClockArrowsLesserAngle\obj\Debug\net6.0\ref\ClockArrowsLesserAngle.dll
