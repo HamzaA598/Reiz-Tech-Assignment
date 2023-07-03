@@ -24,6 +24,7 @@ namespace MyApp
             return prufer;
         }
 
+        // adds an edge to an adjacency list
         static void AddEdge(ref List<List<int>> adj, int u, int v)
         {
             adj[u].Add(v);
